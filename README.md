@@ -1,1 +1,1 @@
-ss://chacha20:test123@34.81.89.58:6000#gcs
+ss://Y2hhY2hhMjA6dGVzdDEyM0AxMDQuMTk5LjE2Mi41Mjo2MDAwCg==#gcs

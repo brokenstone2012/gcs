@@ -1,1 +1,1 @@
-ss://chacha20:test123@34.80.17.22:6000#gcs
+ss://chacha20:test123@34.81.21.2:6000#gcs

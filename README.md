@@ -1,1 +1,1 @@
-ss://chacha20:test123@35.221.233.13:6000#gcs
+1. Group: A IP: [35m35.194.205.186[0m Port: 22 TLS: close UUID: aee5ea1b-f5ec-49ca-be3e-b043f305f3ef Alter ID: 64 Network: WebSocket host: , path: / [32mvmess://eyJ2IjogIjIiLCAicHMiOiAiMzUuMTk0LjIwNS4xODY6MjIiLCAiYWRkIjogIjM1LjE5NC4yMDUuMTg2IiwgInBvcnQiOiAyMiwgImFpZCI6IDY0LCAidHlwZSI6ICIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJpZCI6ICJhZWU1ZWExYi1mNWVjLTQ5Y2EtYmUzZS1iMDQzZjMwNWYzZWYiLCAidGxzIjogIm5vbmUifQ==[0m Tip: The same group's node protocol, port, tls are the same.

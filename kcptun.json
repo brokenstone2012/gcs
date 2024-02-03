@@ -1,0 +1,8 @@
+{
+"listen": ":18501-18881",
+"target": "127.0.0.1:6443",
+"crypt": "aes",
+"mode": "fast2",
+"nocomp": true,
+"log": "/root/kcptun.log"
+}

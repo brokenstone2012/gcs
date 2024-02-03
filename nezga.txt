@@ -1,0 +1,1 @@
+nohup .nezha-agent -s tz.xiaomingzy.top443 -p uYxTt3janqjwW7UTjp --tls &

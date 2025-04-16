@@ -4,7 +4,7 @@
     },
     "inbounds": [
         {
-            "port": 5656,
+            "port": 8080,
             "protocol": "vless",
             "settings": {
                 "clients": [
@@ -16,11 +16,11 @@
                 "decryption": "none",
                 "fallbacks": [
                     {
-                        "dest": 3001
+                        "dest": 8081
                     },
                     {
                         "path": "/vmess",
-                        "dest": 3003
+                        "dest": 8082
                     }
                 ]
             },
@@ -29,7 +29,7 @@
             }
         },
         {
-            "port": 3001,
+            "port": 8081,
             "listen": "127.0.0.1",
             "protocol": "vless",
             "settings": {
@@ -46,7 +46,7 @@
             }
         },
         {
-            "port": 3003,
+            "port": 8082,
             "listen": "127.0.0.1",
             "protocol": "vmess",
             "settings": {
